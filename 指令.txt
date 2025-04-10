@@ -5,3 +5,10 @@ git pull origin main --allow-unrelated-histories
 git add .
 git commit -m "First commit: WebAR prototype"
 git push origin main
+
+
+git config --global user.name "SkyDeath"
+git config --global user.email "SkyDeathiii@gmail.com"
+
+
+git add . && git commit -m "更新：模型保留在場景中" && git push origin main
