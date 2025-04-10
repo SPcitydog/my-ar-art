@@ -1,0 +1,7 @@
+git init
+git remote add origin https://github.com/SPcitydog/my-ar-art.git
+git pull origin main --allow-unrelated-histories
+
+git add .
+git commit -m "First commit: WebAR prototype"
+git push origin main
